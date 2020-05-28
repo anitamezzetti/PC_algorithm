@@ -1,0 +1,7 @@
+https://online.stat.psu.edu/stat505/lesson/6/6.1
+
+https://www.encyclopediaofmath.org/index.php/Partial_correlation_coefficient
+
+https://pingouin-stats.org/generated/pingouin.pcorr.html
+
+https://cran.r-project.org/web/packages/ppcor/ppcor.pdf
